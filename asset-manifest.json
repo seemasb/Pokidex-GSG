@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Pokidex-GSG/static/css/main.ec7945a7.chunk.css",
+    "main.js": "/Pokidex-GSG/static/js/main.af0248b1.chunk.js",
+    "main.js.map": "/Pokidex-GSG/static/js/main.af0248b1.chunk.js.map",
+    "runtime-main.js": "/Pokidex-GSG/static/js/runtime-main.b8840ede.js",
+    "runtime-main.js.map": "/Pokidex-GSG/static/js/runtime-main.b8840ede.js.map",
+    "static/js/2.6e54ffe4.chunk.js": "/Pokidex-GSG/static/js/2.6e54ffe4.chunk.js",
+    "static/js/2.6e54ffe4.chunk.js.map": "/Pokidex-GSG/static/js/2.6e54ffe4.chunk.js.map",
+    "static/js/3.2145f904.chunk.js": "/Pokidex-GSG/static/js/3.2145f904.chunk.js",
+    "static/js/3.2145f904.chunk.js.map": "/Pokidex-GSG/static/js/3.2145f904.chunk.js.map",
+    "index.html": "/Pokidex-GSG/index.html",
+    "static/css/main.ec7945a7.chunk.css.map": "/Pokidex-GSG/static/css/main.ec7945a7.chunk.css.map",
+    "static/js/2.6e54ffe4.chunk.js.LICENSE.txt": "/Pokidex-GSG/static/js/2.6e54ffe4.chunk.js.LICENSE.txt",
+    "static/media/Rectangle.7786300e.png": "/Pokidex-GSG/static/media/Rectangle.7786300e.png",
+    "static/media/fullPek.1c3160cc.png": "/Pokidex-GSG/static/media/fullPek.1c3160cc.png",
+    "static/media/pngwing.40161c58.png": "/Pokidex-GSG/static/media/pngwing.40161c58.png",
+    "static/media/pokitest.3a5d00ea.jpg": "/Pokidex-GSG/static/media/pokitest.3a5d00ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8840ede.js",
+    "static/js/2.6e54ffe4.chunk.js",
+    "static/css/main.ec7945a7.chunk.css",
+    "static/js/main.af0248b1.chunk.js"
+  ]
+}
