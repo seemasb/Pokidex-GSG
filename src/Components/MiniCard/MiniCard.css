@@ -1,0 +1,32 @@
+
+
+
+.back_img{
+    /* background: radial-gradient(677.11% 487.95% at 102.13% -20%, #B57E10 0%, #B57E10 20.31%, #F9DF7B 39.58%, #FFF3A6 59.38%, #F9DF7B 78.13%, #B57E10 100%); */
+border-radius: 15px;
+width: 127px;
+height: 170px;
+}
+
+.white-box{
+    position: relative;
+    margin-left: -139px;
+    top: 10px;
+    left: 12px;
+    width: 134px;
+}
+
+.group{
+    margin-left: -20px;
+    position: relative;
+    left: -14px;
+    top: -3px;
+}
+
+.mini_span{
+    margin-left: -20px;
+    position: relative;
+    left: -100px;
+    top: -15px;
+    font-size: 13pt;
+}

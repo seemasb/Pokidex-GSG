@@ -1,0 +1,10 @@
+
+
+.indi-ele{
+    display: flex;
+    flex-direction: column;
+}
+
+.indi-ele span {
+    text-align: left
+}

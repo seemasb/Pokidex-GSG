@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap');
+
+.pokidex_cont{
+    margin-top: 60px;
+    height:790px;
+}
+
+
+
+.poki{
+    font-family: 'Karla', sans-serif;
+    letter-spacing: 4px;
+    font-size: 19pt;
+    margin-top: 73px;
+}
+.pokidex_span{
+   
+    font-weight: bold;
+}
+
+.cardscont{
+    width: 1167px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    row-gap: 33px;
+    margin-left: 125px;
+}
+
+.list-cont{
+    display: flex;
+    gap: 30px;
+    margin-left: 210px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.btns{
+    margin-top: 30px;
+    margin-left: 650px;
+    /* align-content: center; */
+}
+
+.pokiFoo{
+    position: relative;
+    top: -50px;
+   margin-left: 25px;
+   margin-bottom: 10px;
+}

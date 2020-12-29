@@ -1,23 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './Components/NavBar/NavBar';
+import { Route, BrowserRouter, Switch, Redirect } from 'react-router-dom';
+import Home from './Pages/Home';
+import Legendaries from './Pages/Legendaries';
+import Pokidex from './Pages/Pokidex';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <NavBar />
+        <Switch>
+          <Route exact path="/Home">
+            <Home />
+          </Route>
+          <Route exact path="/Legendaries">
+            <Legendaries />
+          </Route>
+          <Route exact path="/Pokidex">
+            <Pokidex />
+          </Route>
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }

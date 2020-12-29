@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap');
+
+
+.See {
+background: #73D677;
+box-shadow: inset 0px -6px 0px rgba(0, 0, 0, 0.18);
+border-radius: 5px;
+
+padding-bottom: 10px;
+padding-top: 4.5px;
+padding-left: 35px;
+
+font-weight: bold;
+border: none;
+font-family: 'Karla', sans-serif;
+font-style: normal;
+font-size: 14.5px;
+line-height: 27px;
+margin-left: 149px;
+margin-top: 48px;
+width: 163px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #212121;
+
+}

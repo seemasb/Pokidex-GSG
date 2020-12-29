@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap');
+
+/* .quotes_cont{
+    margin-top: 100px;
+} */
+
+.p1{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+/* font-weight: bold; */
+font-size: 63px;
+line-height: 67px;
+letter-spacing: 5px;
+text-align: left;
+color: #000000;
+margin-left: 149px;
+/* margin-top: 78px; */
+
+}
+
+.span1 , .span2{
+ font-weight: bold;
+}
+
+.p2{
+    font-family: 'Karla', sans-serif;
+    font-family: Karla;
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 27px;
+letter-spacing: 1px;
+text-align: left;
+color: #000000;
+margin-left: 149px;
+/* margin-top: 40px; */
+
+}

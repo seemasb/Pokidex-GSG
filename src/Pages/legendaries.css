@@ -1,0 +1,9 @@
+
+
+.legendaries_cont{
+    background-color:#212121;
+    height: 2750px;
+    display: flex;
+    flex-direction: column;
+    gap: 170px;
+}

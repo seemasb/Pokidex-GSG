@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.Pokiname{
+    font-family: 'Karla', sans-serif;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 62px;
+    line-height: 84px;
+    letter-spacing: 4px;
+    float: left;
+    position: absolute;
+    top: -85px;
+    /* margin-left: -810px; */
+    color: #FFFFFF;
+}
+
+.divider{
+    border-bottom: 1px solid #FFFFFF;
+    position: relative;
+    /* top: 93px; */
+    width: 1017px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.ele1{
+    display: flex;
+    gap: 261px;
+    /* margin-left: 150px; */
+    margin-top: 50px;
+}
+
+.ele1Pic{
+    width: 355px;
+    height: 400px;
+}
+
+.Element_cont{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    position: relative;
+    top: 110px;
+}

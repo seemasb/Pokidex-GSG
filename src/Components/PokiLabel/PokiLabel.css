@@ -1,0 +1,27 @@
+
+
+.attribute_green{
+    position: relative;
+    left: 20px;
+width: 62px;
+height: 18px;
+border-radius: 50px;
+background: #73D677;
+font-size: 8pt;
+
+box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+/* border-radius: 11px; */
+}
+
+.attribute_blue{
+    position: relative;
+    left: 37px;
+    width: 62px;
+    height: 18px;
+    border-radius: 50px;
+    background: #07D6F2;
+    font-size: 8pt;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    }
+
+   

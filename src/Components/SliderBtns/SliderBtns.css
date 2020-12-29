@@ -1,0 +1,14 @@
+
+
+.SliderBtns_cont{
+    display: flex;
+    gap: 13px;
+}
+
+.buttons {
+    width: 7px ;
+    height: 7px;
+    background-color:#a7a7a7 ;
+    border-radius: 100%;
+    border: none;
+}

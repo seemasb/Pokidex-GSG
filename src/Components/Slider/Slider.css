@@ -1,0 +1,37 @@
+
+
+.Slider_cont{
+    display: flex;
+}
+
+.mini_cont{
+    display: flex;
+    /* gap: -30px; */
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.leftbtn{
+    background-image: url('../imgs/left-arrow.png');
+    width: 55px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 120px;
+    height: 65px;
+    left: -30px;
+}
+
+
+.rightbtn{
+    background-image: url('../imgs/right-arrow.png');
+    width: 55px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 120px;
+    height: 65px;
+    left: -15px;
+}

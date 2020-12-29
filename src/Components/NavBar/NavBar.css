@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.Nav ul {
+    display: flex;
+    gap: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    list-style-type: none;
+    float: right;
+    margin-right: 11%;
+    margin-top: 30px;
+
+}
+
+.Nav ul li{
+   position: relative;
+   bottom: 5px;
+   margin-bottom: 7px;
+
+}
+
+.header_container{
+    height: 70px;
+    width: 88.99%;
+    z-index: 10;
+    display: flex;
+    gap: 450px;
+    padding-left: 149px;
+    background: #F5DB13;
+    box-shadow: 0px 4px 16px rgba(1, 28, 64, 0.2);
+}
+
+.logo{
+    width: 120px;
+    height: 43px;
+    position: relative;
+    top: 12.5px;
+}
+
+/* -----------------------------------unused-------------------------------------- */
+
+.naving{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}

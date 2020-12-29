@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap');
+
+.Info_cont{
+    font-family: 'Karla', sans-serif;
+
+    width: 395px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.indi_cont{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 55px;
+    row-gap: 25px;
+}
+
+.Info_cont_span{
+  font-size: 50pt;
+  text-align: left;
+}
+
+
+.Info_cont p{
+   
+    text-align: left;
+    font-size: 14px;
+    position: relative;
+    top: -12px;
+
+  }

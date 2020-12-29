@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap');
+
+.Card_cont{
+    width: 334px;
+    height: 134px;
+    background: #F6F7F9;
+    box-shadow: 8px 8px 5px -3px #bdbaba;
+
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.d11 , .d12 {
+    border: 2px solid black;
+    border-radius: 100%;
+    width:34px ;
+    height:27px ;
+    padding-top: 5px;
+    font-size: 11pt;
+
+
+   
+}
+
+
+.d1 , .d2 , .d3 {
+    display: flex;
+    /* gap: 10px; */
+}
+
+.d1{
+    margin-left: 24px;
+    gap: 13px;
+    margin-top: 10px;
+}
+
+.d2{
+    
+font-family: 'Karla', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+gap: 15px;
+text-align: center;
+margin-left: 28px;
+color: #4B4B4B;
+}
+
+.profile{
+    width: 220px;
+    height: 134px;
+    border-radius: 0px 8px 8px 0px;
+}
+
+.pokiname{
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 24.5px;
+    margin-top: 2px;
+    font-size: 14pt;
+}
+
+.l2{
+
+}
+.l1{
+    position: relative;
+    top: 20px;
+    z-index: 10;
+}
